@@ -1,0 +1,11 @@
+vue.js framework =js+html - mixed
+
+основа вьюжс компоненты , из них строится интерфейс приложения
+
+vetur
+npm install -g @vue/cli or @vue-cli
+vue create vue-project
+npm run serve
+auto close tag
+
+vue devtools
